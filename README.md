@@ -1,1 +1,1 @@
-# Ultimate GSAP Workshop Starter
+# JS MAstery Ultimate GSAP Course
