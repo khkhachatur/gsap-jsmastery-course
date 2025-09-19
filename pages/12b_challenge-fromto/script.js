@@ -23,7 +23,6 @@ reactions.forEach((button) => {
               rotate: 0,
             },
             {
-              // x: 4,
               rotate: -20,
               repeat: 4,
               duration: 0.15,
